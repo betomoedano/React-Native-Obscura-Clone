@@ -1,4 +1,4 @@
-![Thumbnail](https://i.ytimg.com/vi/cLSxmaLgHaU/maxresdefault.jpg)
+![Thumbnail](https://i.ytimg.com/vi/xNaGYGDZ2JU/maxresdefault.jpg)
 
 # Welcome to Obscura Pro Camera Clone
 
