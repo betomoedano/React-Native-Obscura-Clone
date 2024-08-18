@@ -1,50 +1,52 @@
-# Welcome to your Expo app 👋
+# Welcome to Obscura Pro Camera Clone
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This project is built using [react-native-vision-camera](https://github.com/mateusz1913/react-native-vision-camera), [Expo](https://expo.dev) and ❤️ by [Beto Moedano](https://codewithbeto.dev).
+
+**Live demo at:** [x.com/betomoedano/status/1825178467689755069](https://x.com/betomoedano/status/1825178467689755069)
+
+**YouTube, Source Code, Dependencies and More at:** [codewithbeto.dev/projects/obscura-clone](https://codewithbeto.dev/projects/obscura-clone)
 
 ## Get started
 
-1. Install dependencies
+1. Install dependencies with pnpm
 
    ```bash
-   npm install
+   pnpm install
    ```
 
-2. Start the app
-
+2. prebuild app
    ```bash
-    npx expo start
+    npx expo prebuild && pnpm ios
    ```
 
-In the output, you'll find options to open the app in a
+## Support My Work
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+If you find this project helpful and want to support my work, the best way is by enrolling in one of my courses:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **React Native Course**: [codewithbeto.dev/learn](https://codewithbeto.dev/learn)
+- **React with TypeScript Course**: [codewithbeto.dev/learnReact](https://codewithbeto.dev/learnReact)
+- **Git & GitHub Course**: [codewithbeto.dev/learnGit](https://codewithbeto.dev/learnGit)
 
-## Get a fresh project
+For other ways to support my work, please consider:
 
-When you're ready, run:
+- **Become a Code with Beto channel member**: [YouTube Membership](https://www.youtube.com/channel/UCh247h68vszOMA_OWpGEa5g/join)
+- **GitHub Sponsors**: [Sponsor Me](https://github.com/sponsors/betomoedano)
 
-```bash
-npm run reset-project
-```
+You can also support me by using my referral links:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- Get an exclusive 40% discount on CodeCrafters: [Referral Link](https://app.codecrafters.io/join?via=betomoedano)
+- Get a 10% discount on Vexo Analytics with code "BETO10": [Vexo](https://vexo.co)
+- Sign up for Robinhood and we'll both pick our own gift stock 🎁: [Robinhood](https://join.robinhood.com/albertm-8254f5)
+- Get 500 MB of Dropbox storage: [Dropbox](https://www.dropbox.com/referrals/AAC52bYrrPqp8FZ7K5gxa-I74wecLpiQuB4?src=global9)
 
-## Learn more
+Your support helps me keep creating amazing projects!
 
-To learn more about developing your project with Expo, look at the following resources:
+## Connect with Me
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- **Website**: [Code With Beto](https://codewithbeto.dev)
+- **X (formerly Twitter)**: [@betomoedano](https://x.com/betomoedano)
+- **GitHub**: [betomoedano](https://github.com/betomoedano)
+- **LinkedIn**: [Beto Moedano](https://www.linkedin.com/in/betomoedano/)
+- **Discord**: [Join Our Community](https://discord.com/invite/G2RnuUD8)
+- **Medium**: [@betomoedano01](https://medium.com/@betomoedano01)
+- **Figma**: [betomoedano](https://www.figma.com/@betomoedano)
